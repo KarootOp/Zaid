@@ -1,0 +1,3 @@
+IP:RSMPSurvival.aternos.me:14621
+PORT:14621
+NAME:R SMP
